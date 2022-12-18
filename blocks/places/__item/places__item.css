@@ -1,4 +1,4 @@
-.place__item {
+.places__item {
     margin: 0 auto;
     max-width: 100%;
     height: max-content;
@@ -9,21 +9,21 @@
 }
 
 @media screen and (max-width: 1024px) {
-    .place__item {
+    .places__item {
         gap: max(32px);
     
     }
 }
 
 @media screen and (max-width: 768px) {
-    .place__item {
+    .places__item {
         gap: max(28px);
     
     }
 }
 
 @media screen and (max-width: 320px) {
-    .place__item {
+    .places__item {
         padding: 0;
         gap: max(28px);
         grid-template-columns: repeat(1, 1fr);

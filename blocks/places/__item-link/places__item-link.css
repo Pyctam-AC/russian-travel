@@ -1,4 +1,4 @@
-.place__item-link {
+.places__item-link {
     font-family: 'Inter';
     font-style: normal;
     font-weight: 400;
@@ -9,6 +9,6 @@
     transition: 0.3s linear;
 }
 
-.place__item-link:hover {
+.places__item-link:hover {
     opacity: 0.8;
 }

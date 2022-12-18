@@ -4,10 +4,10 @@
     text-align: left;
     max-width: 690px;
     font-size: 12px;
-    font-weight: 700;
+/*    font-weight: 700;*/
     line-height: 150%;
     font-family: 'inter';
-/*    font-weight: normal;*/
+    font-weight: normal;
 }
 
 @media screen and (max-width: 320px) {
