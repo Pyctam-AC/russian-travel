@@ -1,0 +1,20 @@
+.intro__list {
+    margin: 0;
+/*    margin-top: 33px;*/
+    text-align: left;
+    max-width: 690px;
+    font-size: 12px;
+    font-weight: 700;
+    line-height: 150%;
+    font-family: 'inter';
+    font-weight: normal; 
+}
+
+@media screen and (max-width: 320px) {
+    .intro__list {
+        font-size: 12px;
+        line-height: 150%;
+        
+   
+    }
+}

@@ -1,0 +1,22 @@
+.place__item-title {
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    justify-content: end;
+/*    padding-bottom: 8px;*/
+    max-width: 460px;
+/*    height: min-content;*/
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 72px;
+    line-height: 106%;
+}
+
+@media screen and (max-width: 700px) {
+    .place__item-title {
+        font-size: 32px;
+        padding: 0 16px 0;
+    }
+}

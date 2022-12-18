@@ -1,0 +1,16 @@
+.cover {
+    margin: 0 auto;
+    max-width: 1184px;
+    max-height: 740px;
+    font-family: 'Inter';
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+/*@media screen and (max-width: 1024px) {
+    .cover {
+        max-width: 1024px;
+        max-height: 640px;
+    
+    }
+}*/

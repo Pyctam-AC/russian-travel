@@ -1,0 +1,28 @@
+.header__lang-link {
+    padding-left: 18px;
+    text-decoration: none;
+    color: #ffff;
+    font-size: 24px;
+    line-height: 28px;
+    text-align: right;
+    font-family: 'inter';
+    transition: 0.3s linear;
+}
+
+.header__lang-link:hover .header__lang-link:active, .header__lang-link:focus {
+    text-decoration-line: underline;
+    opacity: 0.8;
+}
+
+
+.header__lang-link:active, .header__lang-link:focus {
+    text-decoration-line: underline;
+}
+
+@media screen and (max-width: 320px) {
+    .header__lang-link {
+        font-size: 18px;
+        line-height: 20px;
+        text-align: right;
+    }
+}
