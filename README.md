@@ -10,5 +10,5 @@ ____________
 
 
 * [Ссылка на сайт в GH])
-
+https://pyctam-ac.github.io/russian-travel/index.html
 
