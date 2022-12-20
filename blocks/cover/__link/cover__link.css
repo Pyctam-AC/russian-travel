@@ -34,7 +34,7 @@
 @media screen and (max-width: 1024px) {
     .cover__link {
         padding-top: max(195px);
-        padding-bottom: max(195px)
+        padding-bottom: max(195px);
     
     }
 }
@@ -42,7 +42,7 @@
 @media screen and (max-width: 768px) {
     .cover__link {
         padding-top: max(115px);
-        padding-bottom: max(115px)
+        padding-bottom: max(115px);
     
     }
 }
@@ -50,6 +50,6 @@
 @media screen and (max-width: 370px) {
     .cover__link {
         padding-top: max(33px);
-        padding-bottom: max(33px)
+        padding-bottom: max(33px);
     }
 }
