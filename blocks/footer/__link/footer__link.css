@@ -16,7 +16,7 @@
     opacity: 0.8;
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 600px) {
     .footer__link {
         font-size: max(24px);
         text-align: left;

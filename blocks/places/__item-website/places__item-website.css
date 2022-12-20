@@ -10,7 +10,7 @@
     
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 491px) {
     .places__item-website  {
         padding: 0 16px 0;
     }

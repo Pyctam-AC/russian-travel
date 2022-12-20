@@ -22,7 +22,7 @@
     }
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 491px) {
     .places__item {
         padding: 0;
         gap: max(28px);

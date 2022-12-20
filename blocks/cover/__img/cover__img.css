@@ -1,7 +1,10 @@
 .cover__img {
     margin: 0 auto;
     width: 100%;
-/*    z-index: 1;*/
-    background-color: linear-gradient (rgba(0,0,0,0.3),rgba(0,0,0,0.3));
+    max-height: 740px;
+    left: 0;
+    top: 0;
+    position: absolute;
+    box-sizing: content-box;
 }
 
