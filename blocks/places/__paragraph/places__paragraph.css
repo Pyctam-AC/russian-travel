@@ -2,7 +2,7 @@
     margin: 0;
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 709px) {
     .places__paragraph {
         padding: 0 16px 0;
     }

@@ -2,7 +2,7 @@
     margin: 0 auto;
     margin-top: max(92px);
     padding: 0 48px 24px;
-    max-width: 100%;
+    max-width: 1280px;
     height: content;
     display: flex;
     flex-direction: row;

@@ -4,9 +4,7 @@
     flex-direction: column;
     align-items: start;
     justify-content: end;
-/*    padding-bottom: 8px;*/
     max-width: 460px;
-/*    height: min-content;*/
     font-family: 'Inter';
     font-style: normal;
     font-weight: 900;
@@ -14,7 +12,15 @@
     line-height: 106%;
 }
 
-@media screen and (max-width: 700px) {
+@media screen and (max-width: 976px) {
+    .places__item-title {
+        font-size: 42px;
+        max-width: 95%;
+    }
+
+}
+
+@media screen and (max-width: 708px) {
     .places__item-title {
         font-size: 32px;
         padding: 0 16px 0;

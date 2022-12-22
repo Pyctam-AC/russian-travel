@@ -1,8 +1,6 @@
 .places__item-website {
     margin: 0;
     padding-top: 30px;
-/*    padding-bottom: 8px;
-    height: min-content;*/
     display: flex;
     flex-direction: column;
     justify-content: end;
@@ -10,7 +8,7 @@
     
 }
 
-@media screen and (max-width: 491px) {
+@media screen and (max-width: 708px) {
     .places__item-website  {
         padding: 0 16px 0;
     }

@@ -8,17 +8,18 @@
     gap: max(80px);
 }
 
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 1191px) {
     .places {
         max-width: calc(100% - 48px - 48px);
     
     }
 }
 
-@media screen and (max-width: 768px) {
-    .place {
-        max-width: calc(100% - 48px);
-        gap: max(73px);
+@media screen and (max-width: 976px) {
+    .places {
+        max-width: 720px;
+        gap: max(40px);
+        margin-bottom: max(62px);
     
     }
 }
@@ -27,6 +28,6 @@
     .places {
         max-width: 100%;
         gap: max(50px);
-        margin: 64px 0 66px;
+        margin: 64px 0 44px;
     }
 }
