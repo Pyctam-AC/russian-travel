@@ -17,7 +17,8 @@
 
 @media screen and (max-width: 980px) {
     .places__item {
-        gap: max(28px);
+        column-gap: max(28px);
+        row-gap: max(48px);
     
     }
 }

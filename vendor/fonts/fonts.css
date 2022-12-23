@@ -11,7 +11,7 @@
 	src: url(./Inter-Bold.woff) format('woff');
 	src: url(./Inter-Bold.woff2) format('woff2');
 	font-weight: 700;
-	font-style: bold;
+	font-style: normal;
 
 }
 
@@ -20,5 +20,5 @@
     src: url(./Inter-Black.woff2) format('woff2');
 	font-family: 'inter';
 	font-weight: 900;
-	font-style: bolder;
+	font-style: normal;
 }
